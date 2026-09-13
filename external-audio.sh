@@ -14,7 +14,7 @@ ARCH=""
 PY_VER=""
 TAR_GZ=""
 PLUGIN_NAME="external_audio"
-BASE_URL="https://github.com/emilnabil/download-plugins/raw/refs/heads/main/external_audio"
+BASE_URL="https://github.com/tarekzoka/external_audio/raw/refs/heads/main/external_audio"
 
 welcome_message() {
     echo -e "${CYAN}##########################################${RESET}"
