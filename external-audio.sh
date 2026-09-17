@@ -14,7 +14,7 @@ ARCH=""
 PY_VER=""
 TAR_GZ=""
 PLUGIN_NAME="external_audio"
-BASE_URL="https://raw.githubusercontent.com/tarekzoka/external_audio/refs/heads/main/external-audio.sh"
+BASE_URL="https://github.com/tarekzoka/external_audio/raw/refs/heads/main/external_audio"
 
 welcome_message() {
     echo -e "${CYAN}##########################################${RESET}"
